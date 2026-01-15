@@ -108,7 +108,7 @@ My goal is to make **data understandable, visual, and impactful**.
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/sairaj-garud-52857b241/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Garud%20Sairaj%20Ajay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
