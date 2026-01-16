@@ -9,7 +9,7 @@
 ### 📊 About Me
 
 Hello! 👋  
-I'm a **Data Analytics & Visualization enthusiast** who loves transforming **raw data into meaningful insights and stories**.
+I'm a **Data Analytics & Visualization enthusiast** who loves transforming **raw data into meaningful insights and stories**. 
 
 I work with **Python, data analysis libraries, and visualization tools** to explore trends, discover patterns, and support data-driven decision-making.  
 My goal is to make **data understandable, visual, and impactful**.
