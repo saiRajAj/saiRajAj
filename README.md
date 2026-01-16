@@ -105,13 +105,22 @@ My goal is to make **data understandable, visual, and impactful**.
 
 ---
 
-## 🌐 Let’s Connect
+## 📫 Contact & Coding Profiles
 
 <p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/sairaj-garud-52857b241/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Garud%20Sairaj%20Ajay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:sairajgarud100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sairajgarud100gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/garud-sairaj-ajay/" target="_blank">
+    <img src="[https://img.shields.io/badge/LinkedIn-Garud%20Sairaj%20Ajay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sairaj-garud-52857b241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" />
+  </a>
+  
+  <a href="https://leetcode.com/saiRajAj/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-saiRajAj-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=36BCF7&center=true&vCenter=true&width=520&lines=Data+drives+decisions;Visualize+to+understand;Learning+never+stops" />
